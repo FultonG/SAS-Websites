@@ -1,11 +1,14 @@
 # SAS-Websites
 A list of SAS Student and Alumni personal websites
 
-- **Fulton Garcia**
+**Fulton Garcia**  
+Class of 2015  
 https://fultongarcia.com
 
-- **Nalin Suri**
+**Nalin Suri**  
+Class of 2016  
 https://suriosity.com/
 
-- **Nick Perez**
+**Nick Perez**  
+Class of 2016  
 http://NickTheSick.com
