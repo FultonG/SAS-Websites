@@ -12,3 +12,7 @@ https://suriosity.com/
 **Nick Perez**  
 Class of 2016  
 http://NickTheSick.com
+
+**Andrew Hoyt**  
+Class of 2017  
+http://chillhammer.com/
