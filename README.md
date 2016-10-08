@@ -6,3 +6,6 @@ https://fultongarcia.com
 
 - **Nalin Suri**
 https://suriosity.com/
+
+- **Nick Perez**
+http://NickTheSick.com
