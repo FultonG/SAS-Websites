@@ -5,6 +5,10 @@ A list of SAS Student and Alumni personal websites
 Class of 2015  
 https://fultongarcia.com
 
+**Santiago Gutierrez**
+Class of 2015
+http://gutierrezsantiago.com
+
 **Nalin Suri**  
 Class of 2016  
 https://suriosity.com/
